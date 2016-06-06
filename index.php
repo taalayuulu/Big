@@ -316,10 +316,10 @@
         <div class="container">
 
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">About Kyrgyzstan</h2>
-                <p class="text-center wow fadeInDown">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                    <br>et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <h2 class="section-title text-center wow fadeInDown">
+                    <?php echo $LANG['about_tema']; ?>
+                </h2>
+            
             </div>
 
             <div class="row">
@@ -346,11 +346,11 @@
                             <ul class="nostyle">
                                 <li>
                                     <i class="fa fa-check-square"></i>
-                                    Ipsum is simply dummy
+                                    <?php echo $LANG['capital']; ?>
                                 </li>
                                 <li>
                                     <i class="fa fa-check-square"></i>
-                                    When an unknown
+                                    <?php echo $LANG['valuta']; ?>
                                 </li>
                             </ul>
                         </div>
@@ -359,11 +359,11 @@
                             <ul class="nostyle">
                                 <li>
                                     <i class="fa fa-check-square"></i>
-                                    The printing and typesetting
+                                    <?php echo $LANG['city']; ?>
                                 </li>
                                 <li>
                                     <i class="fa fa-check-square"></i>
-                                    Lorem Ipsum has been
+                                    <?php echo $LANG['teritorry']; ?>
                                 </li>
                             </ul>
                         </div>
@@ -409,7 +409,7 @@
                                 <p>
                                     <?php echo $LANG['team_job2']; ?>
                                 </p>
-                                  <small><a href="#"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/dongbi.php"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                                <div class="item">
                                  <p>
@@ -419,7 +419,7 @@
                                 <p>
                                     <?php echo $LANG['team_job3']; ?>
                                 </p>
-                                  <small><a href="#"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/maksatkobonbaev.php"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                             <div class="item">
                                  <p>
@@ -429,7 +429,7 @@
                                 <p>
                                     <?php echo $LANG['team_job4']; ?>
                                 </p>
-                                  <small><a href="#"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/zaynudinurkunchiev.php"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                             <div class="item">
                                  <p>
@@ -439,7 +439,7 @@
                                 <p>
                                     <?php echo $LANG['team_job5']; ?>
                                 </p>
-                                  <small><a href="#"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/aktilektungatarov.php"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                             <div class="item">
                                  <p>
@@ -449,7 +449,7 @@
                                 <p>
                                     <?php echo $LANG['team_job6']; ?>
                                 </p>
-                                  <small><a href="#"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/ivanochko.php"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                             <div class="item">
                                  <p>
@@ -459,7 +459,7 @@
                                 <p>
                                     <?php echo $LANG['team_job7']; ?>
                                 </p>
-                                  <small><a href="#"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/zamirbekshaykov.php"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
 
                              <div class="item">
@@ -470,7 +470,7 @@
                                 <p>
                                     <?php echo $LANG['team_job8']; ?>
                                 </p>
-                                  <small><a href="#"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/urmatakmatov.php"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                              <div class="item">
                                  <p>
@@ -480,7 +480,7 @@
                                 <p>
                                     <?php echo $LANG['team_job9']; ?>
                                 </p>
-                                  <small><a href="#"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/kudayarbeyshekov.php"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                         </div>
 

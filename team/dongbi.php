@@ -69,8 +69,8 @@
             </div>
             <!-- /.col-md-8 -->
             <div class="col-md-8">
-                <h1><?php echo $LANG['team_name1']; ?></h1>
-                <p><?php echo $LANG['team_job1_more']; ?></p>
+                <h1><?php echo $LANG['team_name2']; ?></h1>
+                <p><?php echo $LANG['team_job2_more']; ?></p>
                 <a class="btn btn-primary btn-lg" href="#">Call to Action!</a>
             </div>
             <!-- /.col-md-4 -->
@@ -94,14 +94,14 @@
         <div class="row">
             <div class="col-md-6">
                 <h2><i class="fa fa-university" aria-hidden="true"></i></h2>
-                <p><?php echo $LANG['team_univer1']; ?></p>
+                <p><?php echo $LANG['team_univer2']; ?></p>
                 <hr>
             </div>
             <!-- /.col-md-6 -->
             <div class="col-md-6">
                 <h2>
 <i class="fa fa-language" aria-hidden="true"></i></h2>
-                <p><?php echo $LANG['team_language1']; ?>.</p>
+                <p><?php echo $LANG['team_language2']; ?>.</p>
                 <hr>
             </div>
             <!-- /.col-md-6 -->

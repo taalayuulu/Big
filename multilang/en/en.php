@@ -97,6 +97,14 @@ They include:
 $LANG['services_content7'] = 'Efficient and high performing employment performance is a key, long-lasting competitive advantage. 
 Enterprises need to attract and retain this human capital to ensure their skills fully brought out and effectively used. Many corporations have been addressing to these kinds of services to achieve their goals and objectives for high performance execution.';  
 
+//About Kyrgyzstan 
+
+$LANG['about_tema'] = 'About Kyrgyzstan';
+$LANG['capital'] = 'Capital: Bishkek (the former Frunze)';
+$LANG['valuta'] = 'Currency: Som';
+$LANG['city'] = 'The largest cities: Osh, Dzhalal Abad, Karakol';
+$LANG['teritorry'] = '
+Territory: 76,641 sq mi (198,500 sq.km)';
 
 //Contact section
 
@@ -115,30 +123,86 @@ $LANG['team_tema'] = 'Our Team';
 
 $LANG['team_name1'] = 'KUBANYCHBEK SAGALIEV';
 $LANG['team_job1'] = 'Kubanychbek is responsible for managing investment and consulting projects in Beyond Investment Group. He holds a solid knowledge of project evaluation, structuring and tax optimization.';
+$LANG['team_univer1'] = 'He has bachelor’s degree in Public Administrations from Kazakhstan Institute of Management, Economics and Strategic Research, Almaty, Kazakhstan.';
+$LANG['team_language1'] = 'He is fluent in Kyrgyz, English, Turkish, Russian, and Kazakh.';
+$LANG['team_job1_more'] = 'Kubanychbek is responsible for managing investment and consulting projects in Beyond Investment Group. He holds a solid knowledge of project evaluation, structuring and tax optimization.
+Before joining the Beyond Investment Group he spent several years in Mining industry both from private sector and regulator side. He was engaged in project budgeting, cost controlling and variance reporting in a Kyrgyz subsidiary of London based listed company Kazakhmys plc. In regulator side he served as personal assistant of a director of State Agency of Geology and Mineral Resources under the Government of Kyrgyz Republic and was responsible for analysis of legislative compliance of Mining companies. He has a strength network (experts, engineers, owners of businesses) in respective industry.
+He began his career as tax consultant in Almaty based PricewaterhouseCoopers (PwC). His duties included general tax consulting, corporate tax, tax due diligence, international tax structuring, application of tax treaties, tax review and audits and compliance projects. His involvement included both Kyrgyz and Kazakh domestic taxation and cross border taxation as well. His projects included Oil&Gas, Mining, Telecommunication and FMCG sector representatives. He helped clients to optimize tax implications from inbound and outbound investments and business operations. He has good knowledge of Kyrgyz and Kazakh tax legislation.';
 $LANG['team_ssilka'] = 'read more';
 
 $LANG['team_name2'] = 'DONG BI';
 $LANG['team_job2'] = 'Dong Bi is a Canadian geologist <br>with over 30 years of experience in the  mining industry. <br>';
 
+$LANG['team_univer2'] = ' Mr. Bi holds a B.Sc (Geology) from Nanjing University in China, and M.Sc. (Geology) from the University of Alberta in Canada.';
+$LANG['team_language2'] = 'Mr. Bi is fluent in Chinese, English and French';
+$LANG['team_job2_more'] = 'Dong Bi is a Canadian geologist with over 30 years of experience in the mining industry.
+Mr. Bi had served as the Director of Board with a number of Canadian public companies active in Asia, Africa, South America, and North America. He was instrumental on arranging in 1997 the first Chinese institutional investment in a Canadian listed junior mining company. Since 2005, he has been consulting for western companies with interests in China, and for outbound Chinese companies for investments and acquisitions in Brazil, Indonesia, Kyrgyzstan, Greenland, and South Africa.
+Mr. Bi is also an accredited interpreter with the Canadian Government, and had served as the translator in the bilateral meetings between Canadian and Chinese Governments.';
+
+
+
 $LANG['team_name3'] = 'MAKSAT KOBONBAEV ';
 $LANG['team_job3'] = 'Maksat is the Chairman of International Business Council Mineral Resources Committee,Independent Member of the License Commission';
+$LANG['team_univer3'] = 'Maksat holds Ph.D. and MPPA from University of Missouri-St. Louis and completed graduate coursework in New Institutional Economics at Washington University in St. Louis, United States. He has published articles on the issues of governance and corruption.';
+$LANG['team_language3'] = 'He is fluent in Kyrgyz, Russian, English.';
+$LANG['team_job3_more'] = 'Maksat is the Chairman of International Business Council Mineral Resources Committee, Independent Member of the License Commission under State Agency for Geology and Mineral Resources and Government Relations.
+Maksat is a Compliance Manager at Australian Exploration Company Manas Resources, which is developing primary gold deposit in the South of Kyrgyz Republic. He also served as the Director for Government Relations and Deputy Chairman of the Board for Talas Copper Gold (subsidiary of Gold Fields Ltd) and worked for the State Committee for Foreign Investment and Economic Development of the Kyrgyz Republic.
+He has provided consultancy in the area of public sector governance and natural resource management to the USAID, World Bank and Asian Development Bank. He was member of the World Bank mission to Mongolia on public investment management.';
 
 $LANG['team_name4'] = 'ZAINUDIN URKUNCHIEV ';
 $LANG['team_job4'] =  'Zainudin is mainly concentrates his work in Financial Modeling, Corporate Finance, Valuation and Restructuring of mining projects both inbound and outbound investments.';
+$LANG['team_univer4'] = 'He holds bachelor’s degree in Business Administration from American University in Central Asia';
+$LANG['team_language4'] = '
+He is fluent in Kyrgyz, Russian, English and Turkish.';
+$LANG['team_job4_mor4'] = 'Zainudin is mainly concentrates his work in Financial Modeling, Corporate Finance, Valuation and Restructuring of mining projects both inbound and outbound investments.
+Zainudin is a member of Board at ABD Partners and involved in M&A, ¬restructuring, market analysis, business valuation and assisting Mining clients to enter the market of Kyrgyzstan and other Central Asian countries through the purchase of local or establishing a new company.
+Earlier Zainudin was a chief of project controls and cost control department of Kazakhmys Gold Kyrgyzstan, Kyrgyzstan subsidiary of London based Kazakhmys plc. He mainly was engaged in budgeting, deal structuring assistance, advisory on assurance at contract execution stage. His tax optimization experience brought savings for the firm in the amount of at least USD 100K-500K.
+Zainudin also served as senior financial analyst at Kyrgyzstan subsidiary of Coca-Cola Inc.
+In his career, Zainudin has Estimated total impact of projects nearly USD 1 million. He is Expert in optimizing CAPEX/investments to reducing costs of procurement and in optimizing taxation.';
+
 
 $LANG['team_name5'] = 'AKTILEK TUNGATAROV ';
 $LANG['team_job5'] = 'Aktilek is Director for Sustainable Development at Kumtor Gold Company (KGC) subsidiary of Centerra Gold (Canadian based listed company). ';
+$LANG['team_univer5'] = 'He was a member of the Commission on Licensing at the SAGMR. Aktilek has a bachelor’s degree in management and a master’s degree in international development.';
+$LANG['team_language5'] = 'He is fluent in Kyrgyz, Russian, English';
+$LANG['team_job5_mor5'] = 'Aktilek is Director for Sustainable Development at Kumtor Gold Company (KGC) subsidiary of Centerra Gold (Canadian based listed company). He previously served as executive director at International Business Council in Kyrgyzstan (IBC).
+Aktilek was a member of more than ten working groups and councils at the national level. Under his supervision IBC within the last three years has successfully implemented approximately ten projects funded by donor organizations, half of which were related to the mining sector. As a member of various expert groups, Tungatarov actively participated in drafting the new Law on Subsoil.';
+
 
 $LANG['team_name6'] = 'JULIAN EVANOCHKO';
 $LANG['team_job6'] = 'Julian is an executive in the oil and gas industry with over 30 year experience, including international roles. ';
+$LANG['team_univer6'] = 'Julian holds a BSC (Hons) Degree with a Geology major, Julian Evanochko joined the oil and gas industry, initially with Pacific Petroleums in Calgary,Alberta working in Oil and Gas Exploration principally in the Foothills of the Western Canadian Petroleum Basin.';
+$LANG['team_language6'] = 'He is fluent in Kyrgyz, Russian, English';
+$LANG['team_job6_mor6'] = 'Julian is an executive in the oil and gas industry with over 30 year experience, including international roles. Julian is a proven leader and motivator with a track record of building teams and driving performance and innovations.
+ In 1982, Julian transferred to Australia and joined Santos Ltd in Adelaide, South Australia. 1982 - 2000 Julian worked in South Australia and Queensland on exploration and development projects in the Cooper Basin in a number of technical and management roles. 
+From 2000 - 2005 Julian worked as a Portfolio Manager in the Santos Corporate Head Office in Adelaide. In 2005 Julian was transferred to Central Asia to set-up and manage Santos International Operations in Kyrgyzstan initially and then Tajikistan. Julian returned from Central Asia to Australia in April 2014 and is currently a consultant petroleum advisor in the Asia Pacific Region.
+';
 
 $LANG['team_name7'] = 'ZAMIRBEK SHAIYKOV';
 $LANG['team_job7'] = 'He worked as the Executive Director of the Union of Entrepreneurs of Kyrgyzstan. He worked as Head of Energy, Transport and Infrastructure / partner as a private entrepreneur in a consulting company.';
+$LANG['team_univer7'] = 'Zamirbek received a Master degree of Public Administration (MPP), Major - Economy in Transition, the Institute of Political Studies. Tokyo, Japan. He graduated from the "International Relations" at the American University in Central Asia.';
+$LANG['team_language7'] = 'He is fluent in Kyrgyz, English, Turkish and Russian languages.';
+$LANG['team_job7_mor7'] = '
+He worked as the Executive Director of the Union of Entrepreneurs of Kyrgyzstan. He worked as Head of Energy, Transport and Infrastructure / partner as a private entrepreneur in a consulting company. He has extensive experience in international organizations. He worked at the US Embassy Economic assistant, coordinator of the program "Cochran". He worked as a project manager at Counterpart International Inc., USAID, Bishkek.
+Zamirbek has experience working in the state structures. Chief Specialist at the Department of International Cooperation, Ministry of Finance.
+He was a member of the National Council for Sustainable Development of the Kyrgyz Republic, headed by the President of the Kyrgyz Republic. Also, he was a member of the Council for Business Development and Investment of the Government of the Kyrgyz Republic.';
 
 $LANG['team_name8'] = 'URMAT AKMATOV';
 $LANG['team_job8'] = 'Urmat is the co-founder and the managing director of Beyond Investment Group. He has over ten years’ experience of structuring and managing ';
+$LANG['team_univer8'] = 'Urmat has obtained MA in International Economics, majoring in Investment Banking from Siegen University, Germany.';
+$LANG['team_language8'] = 'He is fluent in Kyrgyz, English, German, Turkish, and Russian. ';
+$LANG['team_job8_mor8'] = 'Urmat is the co-founder and the managing director of Beyond Investment Group. He has over ten years’ experience of structuring and managing Investment and Financing projects to the amount of 50 million USD in Russia, Turkey and Central Asian countries. 
+Urmat has held Management Position for more than five years within the Eurasia Group AG, leading Financial Division, Commercial Division.
+He has deep expertise in investment banking. He closely cooperated with leading financial institutions such as Islamic Development Bank, EBRD, IFC, IS Investment, John Deere, Kuhn, JCB, Bauer, Double L, Sakai, Petronas etc.
+';
 
 $LANG['team_name9'] = 'KUDOIAR BEISHE UULU';
 $LANG['team_job9'] = 'Kudoiar is the co-founder of Beyond Investment Group. He has eleven years’ experience in Environment, Health and Safety (EHS) including incident investigations, regulatory ';
-
+$LANG['team_univer9'] = '
+Kudoiar holds a Bachelor’s Degree from the Kyrgyz State Technical University, Bachelor of Finance and Credit Degree from Institute of Management, Business and Tourism in the Kyrgyz Republic.
+<br>He also passed out Portfolio of safety and taproot investigation courses in Adelaide, Sydney/Australia, Johor Bahru/Malaysia upon completion of their courses. Kudoiar is a member of international association of audits and quality OHSAS 18001:2007 “Intercert”, Almata/Kazakhstan and a certified Expert of Environmental Management ISO 14001:2000. Besides, Kudoiar was safety certified in Russian Federation and Kyrgyz Republic.';
+$LANG['team_language9'] = 'He is fluent in Kyrgyz, English, Turkish, and Russian.';
+$LANG['team_job9_mor9'] = '
+Kudoiar is the co-founder of Beyond Investment Group. He has eleven years’ experience in Environment, Health and Safety (EHS) including incident investigations, regulatory compliance, management systems development and implementation for the oil&gas, mining and construction companies. His involvement includes management of HSE Department for audit, development and implementation of HSE Management System in Kyrgyzstan subsidiary of Australian Manas Resources Pty and HSE audit for Kyrgyzstan subsidiary of London based Kazakhmys PLC.
+Before co-founding the Company he has performed EHS audit, developed overall EHS Management systems and worked for the biggest construction, oil & gas, seismic companies in Kyrgyzstan, Australia, China, Russia, Kazakhstan and Tajikistan,. Thus, he has extensive knowledge of industry and country-specific information of the mentioned countries. Most previously, Kudoiar held the position of the Corporate EHS Manager for the Central Asian operations unit of an internationally recognized Australian-based oil&gas company Santos pty for six years. As he joined this company in August 2008 he achieved outstanding success with no fatalities, no Days Away From Work Cases and no Recordable Incidents.';
 ?>
