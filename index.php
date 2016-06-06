@@ -55,7 +55,7 @@
                         </li>
                         
                         <li class="scroll">
-                            <a href="#about">About</a>
+                            <a href="#about"><?php echo $LANG['menu4']; ?></a>
                         </li>
                         <li class="scroll">
                             <a href="#meet-team"><?php echo $LANG['menu5'] ;?></a>
@@ -334,11 +334,7 @@
                 <div class="col-sm-6 wow fadeInRight">
                     <h3 class="column-title">Multi Capability</h3>
                     <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                    </p>
-
-                    <p>
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                       <?php echo $LANG['genen']; ?>
                     </p>
 
                     <div class="row">
@@ -369,7 +365,7 @@
                         </div>
                     </div>
 
-                    <a class="btn btn-primary" href="#">Learn More</a>
+                    <a class="btn btn-primary" href="https://en.wikipedia.org/wiki/Kyrgyzstan" target="blank">Learn More</a>
 
                 </div>
             </div>

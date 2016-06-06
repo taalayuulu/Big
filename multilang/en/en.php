@@ -2,6 +2,7 @@
 $LANG['menu1']  = 'Home';
 $LANG['menu2'] = 'Sectors';
 $LANG['menu3'] = 'Services';
+$LANG['menu4'] = 'About Kyrgyzstan';
 $LANG['menu7'] = 'Contact';
 $LANG['menu5'] = 'Team';
 
@@ -105,6 +106,9 @@ $LANG['valuta'] = 'Currency: Som';
 $LANG['city'] = 'The largest cities: Osh, Dzhalal Abad, Karakol';
 $LANG['teritorry'] = '
 Territory: 76,641 sq mi (198,500 sq.km)';
+$LANG['genen'] = 'Strategic arrangement of the Kyrgyz Republic The Kyrgyz Republic (Kyrgyzstan), the state in Central Asia. Borders on Kazakhstan in the north, China – in the east and the southeast, Tajikistan – in the southwest and Uzbekistan – in the west.<br>
+Kyrgyzstan is the intersection in trade in the Central Asian region, a link between China, Kazakhstan and Russia.<br>
+Kyrgyzstan has a developed system of transport communications. Public highways have the extent of 20 thousand km. By road ways it is possible to get to all states bordering on Kyrgyzstan (Uzbekistan, Tajikistan, Kazakhstan, China). The railroads are a part of a railway system of Central Asia. There are three international airports in the country. The airports for light planes operate on internal lines.';
 
 //Contact section
 

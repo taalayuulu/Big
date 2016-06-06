@@ -64,15 +64,18 @@
 
         <!-- Heading Row -->
         <div class="row">
-            <div class="col-md-4">
-                <img class="img-responsive img-rounded" src="../images/team/team.png" width="400" height="350">
-            </div>
+            
             <!-- /.col-md-8 -->
-            <div class="col-md-8">
+                 <br>
+                 <br>
                 <h1><?php echo $LANG['team_name5']; ?></h1>
+                <br>
+                <br>
                 <p><?php echo $LANG['team_job5_mor5']; ?></p>
+                <br>
+
                 <a class="btn btn-primary btn-lg" href="#">Call to Action!</a>
-            </div>
+            
             <!-- /.col-md-4 -->
         </div>
         <!-- /.row -->
