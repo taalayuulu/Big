@@ -21,6 +21,8 @@
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->
+
+
     <!--for horizontal tabs -->
 
     <link href="css/easy-responsive-tabs.css " rel="stylesheet" ></head>
@@ -478,6 +480,17 @@
                                 </p>
                                   <small><a href="team/kudayarbeyshekov.php"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
+
+                            <div class="item">
+                                 <p>
+                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                                <h4><?php echo $LANG['team_name10']; ?></h4>
+                                
+                                <p>
+                                    <?php echo $LANG['team_job10']; ?>
+                                </p>
+                                  <small><a href="team/temirbekazykulov.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                            </div>
                         </div>
 
                         <!-- Controls -->
@@ -511,9 +524,7 @@
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Latest Blogs</h2>
-                <p class="text-center wow fadeInDown">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                    <br>et dolore magna aliqua. Ut enim ad minim veniam</p>
+               
             </div>
 
             <div class="row">

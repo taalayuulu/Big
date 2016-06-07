@@ -62,10 +62,9 @@
       <!-- Page Content -->
     <div class="container">
 
-        <!-- Heading Row -->
-        <div class="row">
+         <div class="row">
             <div class="col-md-4">
-                <img class="img-responsive img-rounded" src="../images/team/team.png" width="400" height="350">
+                <img class="img-responsive img-rounded" src="http://us.123rf.com/450wm/jirsak/jirsak1502/jirsak150200067/36982521-customer-care-care-for-employees-labor-union-life-insurance-customer-relationship-management-crm-and.jpg?ver=6" style="margin-top:75px;" width="400" height="350">
             </div>
             <!-- /.col-md-8 -->
             <div class="col-md-8">

@@ -16,9 +16,22 @@ body {
   color: #64686d;
   line-height: 26px;
   font-size: 15px;
+  background: url('http://stanhumphreyhomes.com/images%20for%20SHCC/text_background4.gif')no-repeat center center fixed;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
+.row h1 {
+   text-align: center;
+}
+p {
+  text-align: justify;
+}
+
 /*team background image*/
 #komanda {
+  
   width: 90px;
   height: 90px;
 }
