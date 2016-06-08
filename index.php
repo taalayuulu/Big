@@ -64,7 +64,7 @@
                         </li>
                         
                         <li class="scroll">
-                            <a href="#blog">Blog</a>
+                            <a href="#blog"><?php echo $LANG['menu6']; ?></a>
                         </li>
                         <li class="scroll">
                             <a href="#get-in-touch"><?php echo $LANG['menu7']; ?></a>
@@ -92,27 +92,6 @@
 
     <section id="main-slider">
         <div class="owl-carousel">
-            <div class="item" style="background-image: url(images/slider/business.jpg);">
-                <div class="slider-inner">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="carousel-content">
-                                    <h2>
-                                        <span>Multi</span>
-                                        is the best Onepage html template
-                                    </h2>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore magna incididunt ut labore aliqua.
-                                    </p>
-                                    <a class="btn btn-primary btn-lg" href="#">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--/.item-->
             <div class="item" style="background-image: url(images/slider/customer.png);">
                 <div class="slider-inner">
                     <div class="container">
@@ -120,14 +99,30 @@
                             <div class="col-sm-6">
                                 <div class="carousel-content">
                                     <h2>
-                                        Beautifully designed
-                                        <span>free</span>
-                                        one page template
+                                    "We think <span>beyond </span>investments"
                                     </h2>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore magna incididunt ut labore aliqua.
+                                    <p style="color:white
+"><?php echo $LANG['slide1']; ?></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--/.item-->
+            <div class="item" style="background-image: url(images/blog/lan.jpg);
+            ">
+                <div class="slider-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                  <h2></h2>
+                                    <p class="jazuu" style="font-weight:bold; font-size: 25px; font-style:italic;"><?php echo $LANG['slide2']; ?>
+                                        <br>
                                     </p>
-                                    <a class="btn btn-primary btn-lg" href="#">Read More</a>
+                                    <br>
+                                    <p class="sitata"> <?php echo $LANG['avtor'];?></p>
                                 </div>
                             </div>
                         </div>
@@ -144,8 +139,9 @@
                 <div class="container">
                     <hr class="section-title text-center wow fadeInDown"></div>
                 <div class="col-sm-9">
-                    <h2 class="section-title text-center wow fadeInDown"><?php echo $LANG['main_topic'] ?></h2>
-                    <p">
+                    <h2 class="section-title text-center wow fadeInDown jazuu">
+                    <?php echo $LANG['main_topic'] ?></h2>
+                    <p>
                         <?php echo $LANG['main_sec']; ?>
                         <br>
                         <br></p>
@@ -173,7 +169,7 @@
                         <div class="pull-left"> <i class="fa fa-line-chart"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><?php echo $LANG['sectors_tema1'] ;?></h4>
+                            <h4 class="media-heading jazuu"><?php echo $LANG['sectors_tema1'] ;?></h4>
                             <p>
                                 <?php echo $LANG['sectors_content1'] ?>
                             </p>
@@ -185,7 +181,7 @@
                         </div>
                         <div class="media-body">
 
-                            <h4 class="media-heading"><?php echo $LANG['sectors_tema2'] ;?></h4>
+                            <h4 class="media-heading jazuu"><?php echo $LANG['sectors_tema2'] ;?></h4>
                             <p>
                                <?php echo $LANG['sectors_content2']; ?>
                             </p>
@@ -200,7 +196,7 @@
                         </div>
                         <div class="media-body">
 
-                            <h4 class="media-heading"><?php echo $LANG['sectors_tema3'] ;?></h4>
+                            <h4 class="media-heading jazuu"><?php echo $LANG['sectors_tema3'] ;?></h4>
                             <p>
                                 <?php echo $LANG['sectors_content3'] ;?>
                             </p>
@@ -213,7 +209,7 @@
                             <i class="fa fa-pie-chart"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><?php echo $LANG['sectors_tema4'] ;?></h4>
+                            <h4 class="media-heading jazuu"><?php echo $LANG['sectors_tema4'] ;?></h4>
                             <p>
                                 <?php echo $LANG['sectors_content4']; ?>
                             </p>
@@ -326,15 +322,16 @@
 
             <div class="row">
                 <div class="col-sm-6 wow fadeInLeft">
-                    <h3 class="column-title">Video Intro</h3>
+                    
                     <!-- 16:9 aspect ratio -->
                     <div class="embed-responsive embed-responsive-16by9">
+
                         <iframe  src="https://www.youtube.com/embed/YmVhGYceIMI" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen id="player"></iframe>
                     </div>
                 </div>
 
                 <div class="col-sm-6 wow fadeInRight">
-                    <h3 class="column-title">Multi Capability</h3>
+                    
                     <p>
                        <?php echo $LANG['genen']; ?>
                     </p>
@@ -387,109 +384,102 @@
 
                     <div id="carousel-testimonial" class="carousel slide text-center" data-ride="carousel">
                         <!-- Wrapper for slides -->
+                         <h1 class="jazuu"> <?php echo $LANG['menu5']; ?></h1>
+                         <br>
                         <div class="carousel-inner" role="listbox">
+
                             <div class="item active">
                                
-                                <p>
-                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                            
                                 <h4><?php echo $LANG['team_name1']; ?></h4>
                                 
                                 <p>
                                     <?php echo $LANG['team_job1']; ?>
                                 </p>
-                                  <small><a href="team/kybanychbek.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/kybanychbek.php" target="blank"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                             <div class="item">
-                                 <p>
-                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                                 
                                 <h4><?php echo $LANG['team_name2']; ?></h4>
                                 
                                 <p>
                                     <?php echo $LANG['team_job2']; ?>
                                 </p>
-                                  <small><a href="team/dongbi.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/dongbi.php" target="blank"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                                <div class="item">
-                                 <p>
-                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                                 
                                 <h4><?php echo $LANG['team_name3']; ?></h4>
                                 
                                 <p>
                                     <?php echo $LANG['team_job3']; ?>
                                 </p>
-                                  <small><a href="team/maksatkobonbaev.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/maksatkobonbaev.php" target="blank"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                             <div class="item">
-                                 <p>
-                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                                 
                                 <h4><?php echo $LANG['team_name4']; ?></h4>
                                 
                                 <p>
                                     <?php echo $LANG['team_job4']; ?>
                                 </p>
-                                  <small><a href="team/zaynudinurkunchiev.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/zaynudinurkunchiev.php" target="blank"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                             <div class="item">
-                                 <p>
-                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                                 
                                 <h4><?php echo $LANG['team_name5']; ?></h4>
                                 
                                 <p>
                                     <?php echo $LANG['team_job5']; ?>
                                 </p>
-                                  <small><a href="team/aktilektungatarov.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/aktilektungatarov.php" target="blank"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                             <div class="item">
-                                 <p>
-                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                                 
                                 <h4><?php echo $LANG['team_name6']; ?></h4>
                                 
                                 <p>
                                     <?php echo $LANG['team_job6']; ?>
                                 </p>
-                                  <small><a href="team/ivanochko.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/ivanochko.php" target="blank"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                             <div class="item">
-                                 <p>
-                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                                 
                                 <h4><?php echo $LANG['team_name7']; ?></h4>
                                 
                                 <p>
                                     <?php echo $LANG['team_job7']; ?>
                                 </p>
-                                  <small><a href="team/zamirbekshaykov.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/zamirbekshaykov.php" target="blank"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
 
                              <div class="item">
-                                 <p>
-                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                                 
                                 <h4><?php echo $LANG['team_name8']; ?></h4>
                                 
                                 <p>
                                     <?php echo $LANG['team_job8']; ?>
                                 </p>
-                                  <small><a href="team/urmatakmatov.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/urmatakmatov.php" target="blank"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                              <div class="item">
-                                 <p>
-                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                                 
                                 <h4><?php echo $LANG['team_name9']; ?></h4>
                                 
                                 <p>
                                     <?php echo $LANG['team_job9']; ?>
                                 </p>
-                                  <small><a href="team/kudayarbeyshekov.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/kudayarbeyshekov.php" target="blank"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
 
                             <div class="item">
-                                 <p>
-                                    <img class="img-circle img-thumbnail" src="images/team/team.png" id="komanda"></p>
+                                 
                                 <h4><?php echo $LANG['team_name10']; ?></h4>
                                 
                                 <p>
                                     <?php echo $LANG['team_job10']; ?>
                                 </p>
-                                  <small><a href="team/temirbekazykulov.php"><?php echo $LANG['team_ssilka'];?></a></small>
+                                  <small><a href="team/temirbekazykulov.php" target="blank"><?php echo $LANG['team_ssilka'];?></a></small>
                             </div>
                         </div>
 
@@ -523,7 +513,7 @@
     <section id="blog">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Latest Blogs</h2>
+                <h2 class="section-title text-center wow fadeInDown"><?php echo $LANG['menu6']; ?></h2>
                
             </div>
 
@@ -533,121 +523,76 @@
                         <article>
                             <header class="entry-header">
                                 <div class="entry-thumbnail">
-                                    <img class="img-responsive" src="images/blog/01.jpg" alt="">
-                                    <span class="post-format post-format-video">
-                                        <i class="fa fa-film"></i>
-                                    </span>
+                                    <img class="img-responsive img-rounded" src="images/blog/01.jpg" alt="">
+                                    
                                 </div>
-                                <div class="entry-date">25 November 2014</div>
+                                
                                 <h2 class="entry-title">
-                                    <a href="#">While now the fated Pequod had been so long afloat this</a>
+                                    <a href="#"><?php echo $LANG['ntema1']; ?></a>
                                 </h2>
                             </header>
 
                             <div class="entry-content">
-                                <P>
-                                    With a blow from the top-maul Ahab knocked off the steel head of the lance, and then handing to the mate the long iron rod remaining, bade him hold it upright, without its touching off the steel head of the lance, and then handing to the mate the long iron rod remaining. without its touching off the steel without its touching off the steel
-                                </P>
-                                <a class="btn btn-primary" href="#">Read More</a>
+                            <p>
+                                <?php 
+                                 $value = $LANG['n1content1'];
+                                  function limit($value , $kiska = 150 , $end = '...')
+                                  {
+                                    $kiska = $kiska - strlen($end);
+                                    $valuelen = strlen($value);
+                                    return $kiska < $valuelen ? substr($value, 0 ,strrpos($value,' ',$kiska-$valuelen)).$end:$value;
+                                  }
+                                  echo limit($value , $kiska = 350 , $end = '...');
+                                ?>
+                                </p>
+                                <a class="btn btn-primary" href="blog/post.php" target="blank"><?php echo $LANG['dugme']; ?></a>
+
+                                 <footer class="entry-meta">
+                                    
+                                </footer>
                             </div>
 
-                            <footer class="entry-meta">
-                                <span class="entry-author">
-                                    <i class="fa fa-pencil"></i>
-                                    <a href="#">Victor</a>
-                                </span>
-                                <span class="entry-category">
-                                    <i class="fa fa-folder-o"></i>
-                                    <a href="#">Tutorial</a>
-                                </span>
-                                <span class="entry-comments">
-                                    <i class="fa fa-comments-o"></i>
-                                    <a href="#">15</a>
-                                </span>
-                            </footer>
+                            
                         </article>
                     </div>
                 </div>
                 <!--/.col-sm-6-->
                 <div class="col-sm-6">
-                    <div class="blog-post blog-media wow fadeInRight" data-wow-duration="300ms" data-wow-delay="100ms">
-                        <article class="media clearfix">
-                            <div class="entry-thumbnail pull-left">
-                                <img class="img-responsive" src="images/blog/02.jpg" >
-                                <span class="post-format post-format-gallery">
-                                    <i class="fa fa-image"></i>
-                                </span>
-                            </div>
-                            <div class="media-body">
-                                <header class="entry-header">
-                                    <div class="entry-date">01 December 2014</div>
-                                    <h2 class="entry-title">
-                                        <a href="#">BeReviews was a awesome envent in dhaka</a>
-                                    </h2>
-                                </header>
-
-                                <div class="entry-content">
-                                    <P>
-                                        With a blow from the top-maul Ahab knocked off the steel head of the lance, and then handing to the steel
-                                    </P>
-                                    <a class="btn btn-primary" href="#">Read More</a>
+                    <div class="blog-post blog-large wow fadeInRight" data-wow-duration="300ms" data-wow-delay="0ms">
+                        <article>
+                            <header class="entry-header">
+                                <div class="entry-thumbnail">
+                                    <img class="img-responsive img-rounded" src="images/blog/02.jpg" alt="">
+                                    
                                 </div>
+                                
+                                 <h2 class="entry-title">
+                                    <a href="#"><?php echo $LANG['ntema2']; ?></a>
+                                </h2>
+                            </header>
 
-                                <footer class="entry-meta">
-                                    <span class="entry-author">
-                                        <i class="fa fa-pencil"></i>
-                                        <a href="#">Campbell</a>
-                                    </span>
-                                    <span class="entry-category">
-                                        <i class="fa fa-folder-o"></i>
-                                        <a href="#">Tutorial</a>
-                                    </span>
-                                    <span class="entry-comments">
-                                        <i class="fa fa-comments-o"></i>
-                                        <a href="#">15</a>
-                                    </span>
+                            <div class="entry-content">
+                                <?php 
+
+                                   $value2 = $LANG['ncontent2'] ;
+
+                                  function limit2($value2 , $kiska = 450 , $end = '...')
+                                  {
+                                    $kiska = $kiska - strlen($end);
+                                    $valuelen = strlen($value2);
+                                    return $kiska < $valuelen ? substr($value2, 0 ,strrpos($value2,' ',$kiska-$valuelen)).$end:$value2;
+                                  }
+                                  echo limit2($value2 , $kiska = 450 , $end = '...');
+
+                                 ?>
+                                <a class="btn btn-primary" href="blog/post.php" target="blank"><?php echo $LANG['dugme']; ?></a>
+
+                                 <footer class="entry-meta">
+                                    
                                 </footer>
                             </div>
-                        </article>
-                    </div>
-                    <div class="blog-post blog-media wow fadeInRight" data-wow-duration="300ms" data-wow-delay="200ms">
-                        <article class="media clearfix">
-                            <div class="entry-thumbnail pull-left">
-                                <img class="img-responsive" src="images/blog/03.jpg" alt="">
-                                <span class="post-format post-format-audio">
-                                    <i class="fa fa-music"></i>
-                                </span>
-                            </div>
-                            <div class="media-body">
-                                <header class="entry-header">
-                                    <div class="entry-date">03 November 2014</div>
-                                    <h2 class="entry-title">
-                                        <a href="#">Play list of old bangle  music and gajal</a>
-                                    </h2>
-                                </header>
 
-                                <div class="entry-content">
-                                    <P>
-                                        With a blow from the top-maul Ahab knocked off the steel head of the lance, and then handing to the steel
-                                    </P>
-                                    <a class="btn btn-primary" href="#">Read More</a>
-                                </div>
-
-                                <footer class="entry-meta">
-                                    <span class="entry-author">
-                                        <i class="fa fa-pencil"></i>
-                                        <a href="#">Ruth</a>
-                                    </span>
-                                    <span class="entry-category">
-                                        <i class="fa fa-folder-o"></i>
-                                        <a href="#">Tutorial</a>
-                                    </span>
-                                    <span class="entry-comments">
-                                        <i class="fa fa-comments-o"></i>
-                                        <a href="#">15</a>
-                                    </span>
-                                </footer>
-                            </div>
+                            
                         </article>
                     </div>
                 </div>

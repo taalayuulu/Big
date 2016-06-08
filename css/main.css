@@ -22,16 +22,33 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+.sitata {
+  color:black; 
+  float:right;
+  
+}
 .row h1 {
    text-align: center;
 }
 p {
   text-align: justify;
 }
+.jazuu {
+  color: #45aed6;
+  -webkit-transition: color 400ms, background-color 400ms;
+  -moz-transition: color 400ms, background-color 400ms;
+  -o-transition: color 400ms, background-color 400ms;
+  transition: color 400ms, background-color 400ms;
+}
+
+.jazuu:hover,
+.jazuu:focus {
+  text-decoration: none;
+  color: #2a95be;
+}
 
 /*team background image*/
 #komanda {
-  
   width: 90px;
   height: 90px;
 }

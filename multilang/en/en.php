@@ -4,7 +4,13 @@ $LANG['menu2'] = 'Sectors';
 $LANG['menu3'] = 'Services';
 $LANG['menu4'] = 'About Kyrgyzstan';
 $LANG['menu7'] = 'Contact';
-$LANG['menu5'] = 'Team';
+$LANG['menu5'] = 'Our Team';
+$LANG['menu6'] = 'Publications';
+//sliders content 
+$LANG['slide1'] = 'BIG provides consulting services to the local and multinational enterprises in the area of corporate finance, transaction support, taxation and industry expertise consultancy.';
+    $LANG['slide2'] = '“Whenever you see a successful business, someone once made a courageous decision.”';
+$LANG['avtor'] = 'Peter F. Drucker';
+
 
 // Main section 
 $LANG['main_topic'] = 'Beyond Investment Group';
@@ -226,5 +232,116 @@ Apart from private business engagements, Temirbek has been very actively involve
 Temirbek serves as a public advisor to the Chairman of the State Tax Service under the Government of Kyrgyz Republic. Also, he is a member of the Investment Council under the Government of the Kyrgyz Republic. Being involved in public activity, he actively raises solutions to business doing obstacles, legislation improvements, proposes bills to the Kyrgyz Government and other state bodies of the Kyrgyz Republic. 
 <br><br>
 He has vast experience in road and civil Construction, Mining, Oil&Gas and Energy industries. His knowledge and scope of these industries extend to the regional level. ';
+//publication section 
+
+$LANG['ntema1'] ='Kyrgyzstan plans to increase investment in the mining sector';
+
+$LANG['istochnik'] = 'Source';
+
+$LANG['n1content1'] = '<p>“The Kyrgyz government is working on the development and intensification of investment in the mining sector”, said Deputy Minister of Economy of the Kyrgyz Republic Turatbek Dzhunushaliyev.</p><br>
+
+                    <p>"As long as we do not observe the flow of investment and the effective implementation of all investment projects, which could give us a good incentive for further development of mining production", - he said. Every year in the Kyrgyz mining industry invested 2-2.5 billion soms, and this figure is expected to increase to 5 billion US dollars.</p>
+
+                    <p>"The interest of a businessman, no doubt, must be a priority, it does not come here to engage in charity, and he had to earn their profits. But this should be proportionate to its participation in local community life - the creation of infrastructure, roads, lighting, water supply, social purpose objects" - added Turatbek Dzhunushaliyev.</p>
+
+                    <blockquote>
+                        Recall, February 20, 2015 The Government of Kyrgyzstan approved the Strategy of development of the mining industry in the years 2015-2035.
+                    </blockquote>
+
+                    
+
+                    <p>"The main objective of the Strategy is sustainable, dynamic and diversified development of the mining industry, while ensuring the balance of interests of the state, mining companies and local communities" - then said the Minister of Economy of Kyrgyzstan Temir Sariev.</p>
+
+                    <p>"In the State balance of mineral resources has about two hundred fields with fully explored, or in a state of active exploration of mineral raw materials reserves", - he said.</p>
+
+
+                    <p>According to Temir Sariev, the priorities of the Strategy - the establishment of clear rules regulating harmonized with international best practices; ensuring the development of local markets (goods, services and labor) and a full account of the interests of the local population; transformation resulting from the cost of the development of other sectors of the economy in order to diversify; minimize the impact of mining on the environment; as well as attracting foreign investments and modern technologies of search, exploration and development with a high level of security.</p>
+
+                    <blockquote>
+                        In particular, in the development of gold mining industry are projected three stages: investment stage (2015-2018), stage of stable revenue from gold production (2018-2023), as well as the compensation phase at lower gold production and decommissioning (2024-2035).
+                    </blockquote>
+
+                    
+                    <p>"In the next decade the basis of mining development will determine the gold mining industry, the potential of which is considerable, but the projects have a short life cycle. Current trend reveals the possibility of an investment boom in the period up to 2018-2019 years, after which the high returns can be stored for 5-6 years. Since 2024, there is a threat of a sharp production decline with all its negative consequences, such as loss of thousands of jobs, reduced income the state budget and social funds "- said Minister of Economy.</p>
+
+                    <p>
+                        Currently being developed in Kyrgyzstan 8 indigenous deposits of gold (Kumtor, Makmal, Solton-Sary, Terekkan, Ishtamberdy, Jamgyr, Karakazyk and Levoberezhnoe), the total reserves of which are estimated at 131.9 tons. At the same time high in gold production in the country amounted to 26.9 tons in 2008. Due to the attraction of additional investments of gold production can grow up to 40 tons, and under favorable circumstances - up to 60 tons per year. Gold mining can provide jobs to 18 thousand people.
+                    </p>';
+
+$LANG['n2content1'] = '<p>"In the process of preparing the Strategy was calculated the need for electricity for the administrative regions. The greatest demand for electricity deliveries occur in remote areas of the Jalal-Abad region - more than 900 million kilowatts. Total annual demand for electricity in mining if you run all the gold deposits will be 3.1 billion kWh, "- claimed Temir Sariev.</p>
+
+                    <p>With regard to coal, in 2005-2007 it decreased to 400 thousand tons less as compared to 3.1 million tons in 1991, while the annual need of Kyrgyzstan in the coal is about 2 million tons. Among the main obstacles to the development of this industry is called the high cost of road transport, which makes unprofitable coal production at a distance of 500-600 km from the market.</p>
+                    <blockquote>
+                        Minister of Economics concluded that the implementation of the Strategy fully to attract 7.7 billion US dollars of investment, industrial output will amount to $ 121 billion, payments to the Social Fund -US $ 1.9 billion, while net cash inflow - 29.5 billion US dollars.
+                    </blockquote>                                                                         <p>
+                        In 2014, revenues of the state budget from the mining industry amounted to 7.1 billion soms (about US $ 142 million.), or 17% of the total state budget revenues. According to the National Statistical Committee of the Kyrgyz Republic, the volume of direct foreign investments in the mining sector for the first 9 months of 2015 exceeded $ 4.5 million US, an increase of 257.6% compared to the same period of 2014 and amounted to 0, 7% of the total volume of direct foreign investments into the Kyrgyz economy (641.7 million US dollars).
+                    </p>
+
+                    <p>Kyrgyz Ministry of Economy is also working on the draft program for the development of light industry and manufacturing in order to diversify the countrys economy. "We should not depend on a single industry. The branch of the republics economy should be diversified, it will first of all create a good import substitution, to take people into the workplace and earn extra income in the countrys coffers, "- said Turatbek Dzhunushaliyev. </p>';
+
+$LANG['ntema2'] = 'How to ensure the energy security of Kyrgyzstan';
+$LANG['ncontent2']  = '<p>The energy sector is one of the priorities of the Kyrgyz economy. And without the development of the industry it is impossible successfully develop economy as a whole. Electricity is a significant component of the economy. Currently, Central Asian the countries (Kyrgyzstan, Kazakhstan, Uzbekistan and Tajikistan) produce about 125 billion kWh of electricity per year.
+</p>
+<p>
+As part of the unified energy system of the former Soviet Union republics, the power system of Kyrgyzstan took a peak character. If the power generation was the primary function of the stations, the land reclamation was the main feature. Total power production amounted to 14 billion kWh; however, a constant supply of this volume is not required. Discharge of water and generation of energy were necessary primarily to control the frequency in the unified energy system and ensure their stability, in addition to basic consumption.
+</p>
+<p>
+The collapse of the Soviet Union resulted in a division of the power system. This separation has resulted in the generation of electrical energy has become not only the primary but also the main function. However, because the main consumption of energy is heat consumption, lack of fuel capacity and infrastructure for the generation, transmission and distribution of heat energy was covered by electricity. In the technological aspect that has led to the fact that distribution networks are designed to supply energy for lighting, began to carry load and for heating. This has caused serious renovation networks in the field, close to the points of consumption of energy.
+The development of the hydropower potential of Kyrgyzstan is about 142 billion kWh. Electricity is the main strategy of the program of development of the republics energy sector. Only on the Naryn River and its tributaries, it is opportunity to build 22 hydropower plants with an annual power generation of more than 30 billion kWh.1H. Today country uses no more than 10% of our water resources.
+</p>
+<p>
+A significant part of the unused hydro power potential is presented in the form of mini and micro hydro power plants that can be successfully use to serve local markets. The assessment of the total technically possible for development of the energy potential of small energy amounts to 5-8 billion kWh of electricity per year.
+</p>
+<p>
+Hydropower - is both strong and weak point of Energy of Kyrgyzstan. Strong because hydropower does not pollute the environment and the cost of electricity significantly lower than other renewable sources. Weak, as in years of water shortage needs to be supported by other more costly sources of energy.
+</p>
+<p>
+Given the availability of a natural resource, the Kyrgyz Republic needs to fossil fuels from two countries, downstream, to meet peak electricity consumption in winter (including heating needs).
+Today, when the task was to increase the industrial component of Kyrgyzstans economy, the power industry already has the necessary capacity to undertake this task. Thus, it can be a deterrent to the achievement of sustainable 8-9% economic growth, which decides policy objectives of preserving the competitiveness of the country, socio-political stability.
+Another equally important factor for Kyrgyz electricity is to strengthen the competitiveness of the regional electricity market.
+</p>
+<p>
+The first is regional. Many countries in the region have high rates of economic growth; it is objectively increases in electricity demand. At the same time, we began intensive work on the capacity of electric power capacity in Tajikistan, Kazakhstan, and China. In this regard, in the long term it creates a tough competition on the foreign markets of electric power supply. Kyrgyzstan should maintain its regional power generation potential.
+</p>
+<p>
+Taking into account that Kyrgyzstan electricity centered on hydropower, the essential factor (generating certain risks) is the regulation of water flows, are used for the needs of neighboring countries agricultural production. This question directly affects the possibility of electricity production.
+</p>
+<p>
+The second — in-country. The growth in electricity consumption in Kyrgyzstan ahead of the commissioning of new facilities, which threatens to transform Kyrgyzstan from the electricity surplus in the power deficient nation.
+</p>
+<p>
+Continuous operation of electric power in the conditions of financial and technological failure with increasing and changing consumption patterns has led to technological wear (over 50%) of the sector components.
+</p>
+<p>
+Large commercial and technical losses limit the possibility of capitalization of electric power, which reduces the possibility of technological upgrading and foreign direct investment for its development.
+</p>
+<p>
+Significant regional unevenness of energy (a difference of more than 2 times), and the dominance of household consumption in underdeveloped service and accounting functions, limits the ability of the economic rationalization of electricity.
+</p>
+<p>
+It should also to take into account the overall economic environment. Kyrgyz energy system operates under tight constraints of resource mobilization opportunities from external sources. The Government fairly rigidly minimizes its external loans, refusing to obtain loans from external commercial sources, and limiting the size of loans received under the small percentage of the multilateral funding sources. Domestic financial markets as the debt markets and equity markets are almost non-functional.
+</p>
+<p>
+In addition, gradually increasing the cost of imported gas, which is a reflection of global trends. The result of the current economic environment is that the industry now has to find their own inner resources required for their work and investments. In other words, strengthening financial discipline, reducing losses and the provision of appropriate tariffs are the only source of income required to meet all major industry financial liabilities - i.e. costs of operation and maintenance costs, debt service, meeting the needs for working capital and capital expenditures.
+For the further development of market relations and attraction of investments in the electricity sector adopted: Law of the Kyrgyz Republic "On Amendments and Addenda to the Law of the Kyrgyz Republic" On the special status of the cascade of Toktogul hydroelectric power stations and national high-voltage power line "number 100 of 30 July 2007 and the Law of the Kyrgyz Republic "The construction and operation of Kambarata hydroelectric power stations 1 and 2" number 120 of July 31, 2007.
+</p>
+<p>
+Working environment. Performance industry as a whole, in particular, thermal power plants and distribution networks, is too small to overcome the problems caused by its economic position. This is due to the fact that to maintain low tariffs in the past government has considerably reduced maintenance costs and investments, especially in the area of ​​distribution networks. Consequently, to meet the actual level of financial commitment rates should be higher. On the other hand, it allows a significant increase in performance, but it requires a large capital investment, which also requires an increase in tariffs. All aspects of the business remain weak. There are significant problems with the measurement of energy consumption (energy supply without meters, broken meters, manipulation of meter readings, etc.). Of course, the performance of payment of fees and, in particular, cash fees need to be improved, however, by themselves, these improvements will not lead to the satisfaction of the industry all its financial obligations.
+</p>
+<p>
+Social environment. The Kyrgyz Republic, where GDP per capita is about $ 1250, belongs to the category of the poorest countries in the world. Despite what happened in the last few years a significant reduction in poverty, about 2.8 million. People (slightly more than half the total population) continue to be in extreme poverty. However, electricity is available almost all over the country, and in view of the extremely cold weather in winter, the dependence on electricity is quite high - especially in rural areas, where access to other energy resources is limited. As a result of this urgent need and almost universal access to electricity, the electricity tariffs are quite serious socio-political significance.
+</p>
+<p>
+The country has strong regional inequalities in power consumption; the gap between the north and south of the country is more than two times. What lays the social discrimination, social injustice, creating conditions for social and political destabilization of society?
+The main objective of the development of the energy sector is to ensure energy security in the long term. Energy security is an important issue. However, after overcoming the economic and social crisis, this problem will remain relevant: firstly, due to the preservation of man-made, natural and some of the economic and social threats to energy security; secondly, because of the (long-term elimination of) a number of imbalances in the energy sector, the expected slow to overcome its low technological level and high energy intensity of the economy.
+</p>
+<p>
+Nevertheless, despite the weaknesses, hydropower is the main way of generating capacity and an increase in electricity generation. There are already concrete plans for the construction of Kambarata HPP, further development of the Naryn River by building the capacity of Kokomeren and Upper Naryn cascade of hydropower plants, the development of the capacity of the river Sary-Jaz and numerous small rivers. According to the National Energy Programme by 2025 electricity production must be doubled and amount will be increased to 30 billion kWh per year. This will give the opportunity not only to provide electricity to domestic consumption and to attract the strategic energy-intensive industries, such as Ferroalloy or aluminum smelters, but also to supply electricity for export.  For instance, to South Asian countries such as Pakistan, Afghanistan and India. These countries, energy markets are of great interest to us, as the annual electricity consumption peak in the accounting for the summer period that is when in Kyrgyzstan there is a surplus.
+</p>';
+
+ $LANG['dugme']  = 'read more';
+  $LANG['istochnik'] = 'source';
+
+
 
 ?>
