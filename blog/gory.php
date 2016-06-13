@@ -22,7 +22,7 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->
     <!--for horizontal tabs -->
-<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="../fivefive/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="../five/apple-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="76x76" href="../five/apple-icon-76x76.png">
@@ -39,6 +39,7 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="../five/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+
     <link href="css/easy-responsive-tabs.css " rel="stylesheet" >
    
     </head>
@@ -48,7 +49,7 @@
 
     <header id="header" >
         <nav id="main-menu" class="navbar navbar-default navbar-fixed-top" role="banner">
-            <div class="container" style="background-color: #E1EEF2;">
+            <div class="container" >
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="sr-only">Toggle navigation</span>
@@ -77,52 +78,34 @@
     
       <!-- Page Content -->
     <div class="container">
+          
+       
+        <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <img class="img-responsive img-rounded" src="../images/blog/01.jpg" alt="">
 
-        <!-- Heading Row -->
-       <div class="row">
-            <div class="col-md-4">
-                <img class="img-responsive img-rounded" src="http://us.123rf.com/450wm/jirsak/jirsak1502/jirsak150200067/36982521-customer-care-care-for-employees-labor-union-life-insurance-customer-relationship-management-crm-and.jpg?ver=6" style="margin-top:75px;" width="400" height="350">
-            </div>
-            <!-- /.col-md-8 -->
-            <div class="col-md-8">
-                <h1><?php echo $LANG['team_name7']; ?></h1>
-                <p><?php echo $LANG['team_job7_mor7']; ?></p>
-                <a class="btn btn-primary btn-lg" href="#">Call to Action!</a>
-            </div>
-            <!-- /.col-md-4 -->
-        </div>
+                  <h1><a><?php echo $LANG['ntema1'] ?></a></h1>
+                   <br>
+                   <hr>
+                    <?php echo $LANG['n1content1']; ?>
+                    <a>
+                        <img class="img-responsive img-rounded" src="http://www.vacon.com/ImageVaultFiles/id_3981/cf_2/mining-and-metals-2000x1042.JPG?634871175017700000" alt="">
+                    </a>
+                    <br>
+                    <?php echo $LANG['n2content1']; ?>
+                    <p>
+                        <a href="http://www.ictsd.org/bridges-news/%D0%BC%D0%BE%D1%81%D1%82%D1%8B/news/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D1%83%D0%B5%D1%82-%D0%BF%D0%BE%D0%B2%D1%8B%D1%81%D0%B8%D1%82%D1%8C-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8-%D0%B2-%D0%B3%D0%BE%D1%80%D0%BD%D0%BE%D0%B4%D0%BE%D0%B1%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D1%83%D1%8E-%D0%BE%D1%82%D1%80%D0%B0%D1%81%D0%BB%D1%8C" target="blank"><?php echo $LANG['istochnik']?>: www.ictsd.org/bridges-news </a>.
+                    </p>
 
-        <hr>
-
-        <!-- Call to Action Well -->
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="well text-center">
-                    
                 </div>
             </div>
-            <!-- /.col-lg-12 -->
         </div>
-        <!-- /.row -->
+        <br>
+        <br>
+    </article>
 
-        <!-- Content Row -->
-        <div class="row">
-            <div class="col-md-6">
-                <h2><i class="fa fa-university" aria-hidden="true"></i></h2>
-                <p><?php echo $LANG['team_univer7']; ?></p>
-                <hr>
-            </div>
-            <!-- /.col-md-6 -->
-            <div class="col-md-6">
-                <h2>
-<i class="fa fa-language" aria-hidden="true"></i></h2>
-                <p><?php echo $LANG['team_language7']; ?>.</p>
-                <hr>
-            </div>
-            <!-- /.col-md-6 -->
-        
-        </div>
-        <!-- /.row -->
 
         <!-- Footer -->
         <footer id="footer">
@@ -132,25 +115,7 @@
                 &copy; <code>2016 Beyond Investment Group.</code> Designed by
                     <a target="_blank" href="https://www.facebook.com/kanat.taalayuulu">Kanat Taalai uulu</a>
                 </div>
-                <div class="col-sm-8">
-                    <ul class="social-icons">
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-facebook"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-google-plus"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
+                
             </div>
         </div>
     </footer>

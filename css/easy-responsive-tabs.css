@@ -16,8 +16,8 @@ ul.resp-tabs-list, p {
     font-weight: 600;
     font-size: 16px;
     display: inline-block;
-    padding: 13px 15px;
-    margin: 0 4px 0 0;
+    padding: 8px 8px;
+    margin: 0 2px 0 0;
     list-style: none;
     cursor: pointer;
     float: left;
@@ -37,7 +37,7 @@ h2.resp-accordion {
 
 .resp-tab-content {
     display: none;
-    padding: 75px;
+    padding: 35px;
 }
 
 .resp-tab-content h1 {

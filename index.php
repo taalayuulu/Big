@@ -21,7 +21,23 @@
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->
-
+       <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="fivefive/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="five/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="five/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="five/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="five/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="five/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="five/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="five/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="five/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="five/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="five/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="five/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
 
     <!--for horizontal tabs -->
 
@@ -138,7 +154,7 @@
             <div class="row">
                 <div class="container">
                     <hr class="section-title text-center wow fadeInDown"></div>
-                <div class="col-sm-9">
+                <div >
                     <h2 class="section-title text-center wow fadeInDown jazuu">
                     <?php echo $LANG['main_topic'] ?></h2>
                     <p>
@@ -245,7 +261,7 @@
                     <div>
 
                         <h1><?php echo $LANG['tab_menu1']; ?></h1>
-                        <br>
+                
                         <p>
                             <?php echo $LANG['services_content1']?>
                         </p>
@@ -254,8 +270,7 @@
                     <div>
 
                         <h1><?php echo $LANG['tab_menu2']; ?></h1>
-                        <br>
-
+                        
                         <p>
                             <?php echo $LANG['services_content2']; ?>
                             
@@ -263,23 +278,21 @@
                     </div>
                     <div>
                         <h1><?php echo $LANG['tab_menu3']; ?></h1>
-                        <br>
-
+                       
                         <p>
                            <?php echo $LANG['services_content3']; ?>
                         </p>
                     </div>
                     <div>
                         <h1><?php echo $LANG['tab_menu4']; ?></h1>
-                        <br>
-
+                        
                         <p>
                            <?php echo $LANG['services_content4']; ?>
                         </p>
                     </div>
                     <div>
                         <h1><?php echo $LANG['tab_menu5']; ?></h1>
-                        <br>
+                        
 
                         <p>
                             <?php echo $LANG['services_content5']; ?>
@@ -287,7 +300,7 @@
                     </div>
                     <div>
                         <h1><?php echo $LANG['tab_menu6']; ?></h1>
-                        <br>
+                        
 
                         <p>
                            <?php echo $LANG['services_content6']; ?>
@@ -295,8 +308,7 @@
                     </div>
                     <div>
                         <h1><?php echo $LANG['tab_menu7']; ?></h1>
-                        <br>
-
+                       
                         <p>
                              <?php echo $LANG['services_content7']; ?>
                         </p>
@@ -545,7 +557,7 @@
                                   echo limit($value , $kiska = 350 , $end = '...');
                                 ?>
                                 </p>
-                                <a class="btn btn-primary" href="blog/post.php" target="blank"><?php echo $LANG['dugme']; ?></a>
+                                <a class="btn btn-primary" href="blog/gory.php" target="blank"><?php echo $LANG['dugme']; ?></a>
 
                                  <footer class="entry-meta">
                                     
@@ -585,7 +597,7 @@
                                   echo limit2($value2 , $kiska = 450 , $end = '...');
 
                                  ?>
-                                <a class="btn btn-primary" href="blog/post.php" target="blank"><?php echo $LANG['dugme']; ?></a>
+                                <a class="btn btn-primary" href="blog/energi.php" target="blank"><?php echo $LANG['dugme']; ?></a>
 
                                  <footer class="entry-meta">
                                     
@@ -597,7 +609,87 @@
                     </div>
                 </div>
             </div>
+             <div class="row">
+                <div class="col-sm-6">
+                    <div class="blog-post blog-large wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="0ms">
+                        <article>
+                            <header class="entry-header">
+                                <div class="entry-thumbnail">
+                                    <img class="img-responsive img-rounded" src="images/blog/05.jpg" alt="">
+                                    
+                                </div>
+                                
+                                <h2 class="entry-title">
+                                    <a href="#"><?php echo $LANG['ntema3']; ?></a>
+                                </h2>
+                            </header>
 
+                            <div class="entry-content">
+                             <?php 
+
+                                   $value3 = $LANG['ncontent3'] ;
+
+                                  function limit3($value3 , $kiska = 450 , $end = '...')
+                                  {
+                                    $kiska = $kiska - strlen($end);
+                                    $valuelen = strlen($value3);
+                                    return $kiska < $valuelen ? substr($value3, 0 ,strrpos($value3,' ',$kiska-$valuelen)).$end:$value3;
+                                  }
+                                  echo limit2($value3 , $kiska = 450 , $end = '...');
+
+                                 ?>
+                                <a class="btn btn-primary" href="blog/ekonomika.php" target="blank"><?php echo $LANG['dugme']; ?></a>
+
+                                 <footer class="entry-meta">
+                                    
+                                </footer>
+                            </div>
+
+                            
+                        </article>
+                    </div>
+                </div>
+                <!--/.col-sm-6-->
+                <div class="col-sm-6">
+                    <div class="blog-post blog-large wow fadeInRight" data-wow-duration="300ms" data-wow-delay="0ms">
+                        <article>
+                            <header class="entry-header">
+                                <div class="entry-thumbnail">
+                                    <img class="img-responsive img-rounded" src="images/blog/04.jpg" alt="">
+                                    
+                                </div>
+                                
+                                 <h2 class="entry-title">
+                                    <a href="#"><?php echo $LANG['ntema4']; ?></a>
+                                </h2>
+                            </header>
+
+                            <div class="entry-content">
+                                <?php 
+
+                                   $value4 = $LANG['ncontent4'] ;
+
+                                  function limit4($value4 , $kiska = 450 , $end = '...')
+                                  {
+                                    $kiska = $kiska - strlen($end);
+                                    $valuelen = strlen($value4);
+                                    return $kiska < $valuelen ? substr($value4, 0 ,strrpos($value4,' ',$kiska-$valuelen)).$end:$value4;
+                                  }
+                                  echo limit4($value4 , $kiska = 450 , $end = '...');
+
+                                 ?>
+                                <a class="btn btn-primary" href="blog/kyrgyzstan.php" target="blank"><?php echo $LANG['dugme']; ?></a>
+
+                                 <footer class="entry-meta">
+                                    
+                                </footer>
+                            </div>
+
+                            
+                        </article>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
