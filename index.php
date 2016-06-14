@@ -56,7 +56,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="http://big.kg/">
                         <img src="images/logo.png" alt="logo" class="logo"></a>
                 </div>
 
@@ -92,7 +92,7 @@
                                </a>
                                <ul class="dropdown-menu">
                                    <li>
-                                       <a rel="alternate" href="index.php?lang=en">english</a>
+                                       <a rel="alternate" href="index.php?lang=en">English</a>
                                    </li>
                                    <li>
                                        <a rel="alternate" href="index.php?lang=ru">Русский</a>
@@ -173,12 +173,11 @@
     <section id="sectors">
         <div class="container">
             <div class="section-header">
-                <br>
                 <h2 class="section-title text-center wow fadeInDown"><?php echo $LANG['sectors_tema']; ?></h2>
             </div>
             <p class="text-center wow fadeInDown"></p>
             <div class="section-header">
-                <br></div>
+            </div>
             <div class="row">
                 <div class="col-md-6 col-sm-6">
                     <div class="media service-box wow fadeInRight">
@@ -396,6 +395,7 @@
 
                     <div id="carousel-testimonial" class="carousel slide text-center" data-ride="carousel">
                         <!-- Wrapper for slides -->
+                 
                          <h1 class="jazuu"> <?php echo $LANG['menu5']; ?></h1>
                          <br>
                         <div class="carousel-inner" role="listbox">
@@ -698,7 +698,7 @@
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown"><?php echo $LANG['contact_tema']; ?></h2>
                 <p class="text-center wow fadeInDown">
-                    If you have any question you may call  or email us . We'll response for you as soon as possible </p>
+                     </p>
             </div>
         </div>
     </section>
@@ -759,55 +759,16 @@
                 <div class="col-sm-6">
                     <ul class="social-icons">
                         <li>
-                            <a href="#">
+                            <a href="https://www.facebook.com/BIG-Beyond-Investment-Group-793095134093176/?fref=ts">
                                 <i class="fa fa-facebook"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
-                                <i class="fa fa-twitter"></i>
+                            <a href="https://www.facebook.com/BIG-Beyond-Investment-Group-793095134093176/?fref=ts">
+                                <i class="fa fa-google"></i>
                             </a>
                         </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-google-plus"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-pinterest"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-dribbble"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-behance"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-flickr"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-youtube"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-linkedin"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-github"></i>
-                            </a>
-                        </li>
+                       
                     </ul>
                 </div>
             </div>

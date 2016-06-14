@@ -14,7 +14,8 @@ $LANG['avtor'] = 'Peter F. Drucker';
 
 // Main section 
 $LANG['main_topic'] = 'Beyond Investment Group';
-$LANG['main_sec'] = 'Who we are? Beyond Investment Group (hereinafter “BIG” or “We”) is a team of professional consultants. Our team has a robust experience in Big4 and other industry worldwide known firms. BIG provides consulting services to the local and multinational enterprises in the area of corporate finance, transaction support, taxation and industry expertise consultancy.';
+$LANG['main_sec'] = 'Beyond Investment Group (hereinafter “BIG” or “We”) is a team of professional consultants. Our team has a robust experience in Big4 and other industry worldwide known firms. BIG provides consulting services to the local and multinational enterprises in the area of corporate finance, transaction support, taxation and industry expertise consultancy.
+In fast moving world, businesses are in need of better business models to overcome shortcomings of the past and current challenges. BIG exercise deep experience across industries to help its clients to find innovative ways to optimize business processes, reduce operational costs, manage risks, retain and add value to its loyal and potential customers.';
 
 //Sectors section 
 

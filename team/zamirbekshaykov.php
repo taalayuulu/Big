@@ -87,42 +87,23 @@
             <div class="col-md-8">
                 <h1><?php echo $LANG['team_name7']; ?></h1>
                 <p><?php echo $LANG['team_job7_mor7']; ?></p>
-                <a class="btn btn-primary btn-lg" href="#">Call to Action!</a>
-            </div>
-            <!-- /.col-md-4 -->
-        </div>
-
-        <hr>
-
-        <!-- Call to Action Well -->
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="well text-center">
-                    
-                </div>
-            </div>
-            <!-- /.col-lg-12 -->
-        </div>
-        <!-- /.row -->
-
-        <!-- Content Row -->
-        <div class="row">
-            <div class="col-md-6">
+               <div class="col-md-6">
                 <h2><i class="fa fa-university" aria-hidden="true"></i></h2>
                 <p><?php echo $LANG['team_univer7']; ?></p>
-                <hr>
             </div>
             <!-- /.col-md-6 -->
             <div class="col-md-6">
                 <h2>
 <i class="fa fa-language" aria-hidden="true"></i></h2>
                 <p><?php echo $LANG['team_language7']; ?>.</p>
-                <hr>
             </div>
-            <!-- /.col-md-6 -->
-        
+            </div>
+            <!-- /.col-md-4 -->
         </div>
-        <!-- /.row -->
+
+        <hr>
+
+        
 
         <!-- Footer -->
         <footer id="footer">
@@ -135,17 +116,13 @@
                 <div class="col-sm-8">
                     <ul class="social-icons">
                         <li>
-                            <a href="#">
+                            <a href="https://www.facebook.com/BIG-Beyond-Investment-Group-793095134093176/">
                                 <i class="fa fa-facebook"></i>
                             </a>
                         </li>
+                        
                         <li>
-                            <a href="#">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
+                            <a>
                                 <i class="fa fa-google-plus"></i>
                             </a>
                         </li>
